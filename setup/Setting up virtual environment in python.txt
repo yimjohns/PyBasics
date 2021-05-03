@@ -1,0 +1,13 @@
+Steps to setup your virtual environment using the console.
+
+Step 1
+pip install virtualenv
+
+Step 2 (Optional, you may skip this if your pip is up-to-date
+python -m pip install --upgrade pip
+
+Step 3
+virtualenv venv
+
+Step 4
+source venv\Scripts\activate
