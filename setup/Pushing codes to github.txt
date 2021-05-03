@@ -21,3 +21,8 @@ git remote -v
 
 Step 5 - Push your changes 
 git push origin main
+
+Just in case you got any errors:
+
+git pull --rebase origin main
+git push origin main
